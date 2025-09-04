@@ -20,3 +20,4 @@ pip install aiohttp requests colorama prettytable phonenumbers
 si trasferisce nella directory del ile con cd XXX (XXX=directory del file)
 e poi:
 python huntortion.py
+<img width="2560" height="1440" alt="toolscreen" src="https://github.com/user-attachments/assets/b8ae6d97-9771-4408-9acb-a3223ec63736" />
